@@ -15,5 +15,7 @@ To launch the GUI, type the following in your terminal. Make sure that you're us
 
 ```python HelgoHunt-protein.py```
 
-If the GUI pops-up after that, you are good to proceed! 
+If the GUI pops-up after that, you are good to go!
+
+Good luck with your search :)
 
