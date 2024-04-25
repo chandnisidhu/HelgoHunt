@@ -19,3 +19,5 @@ If the GUI pops-up after that, you are good to go!
 
 *Good luck with your search* :)
 
+
+***Disclaimer: The databases are meant for use by the POMOU team. If you are affiliated with the POMPU team and wish to utilize these databases, please contact me at csidhu@mpi-bremen.de. If you are using this script with your own database, please ensure proper acknowledgment.***
