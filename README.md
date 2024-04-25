@@ -13,7 +13,7 @@ All databases are provided in the zipped file. Please download the file locally 
 ### Graphical User Interface (GUI)
 To launch the GUI, type the following in your terminal. Make sure that you're using the correct path!
 
-```python HelgoHunt-proteins.py```
+```python HelgoHunt-proteins.py``` (works with python3.7)
 
 If the GUI pops-up after that, you are good to go!
 
